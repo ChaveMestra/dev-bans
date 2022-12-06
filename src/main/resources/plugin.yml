@@ -1,0 +1,6 @@
+name: devroom-bans
+author: ChaveMestra
+version: 1.0-SNAPSHOT
+main: com.devroom.DevBans
+depend:
+  - helper

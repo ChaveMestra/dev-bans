@@ -1,0 +1,13 @@
+
+*.lock
+*.bin
+*.properties
+*.probe
+*.xml
+.idea/.name
+*.iml
+*.bat
+gradlew
+gradle/wrapper/gradle-wrapper.jar
+*.MF
+build/*
